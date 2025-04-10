@@ -1,0 +1,29 @@
+.projects-container {
+  padding: 40px 20px;
+}
+
+.card {
+  border: 1px solid #3d3d3d;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: green; /* Project name color */
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #555;
+}
+
+.btn-primary {
+  background-color: #5cac38;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #4a9c30;
+}
